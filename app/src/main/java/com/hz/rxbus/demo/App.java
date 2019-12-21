@@ -16,6 +16,11 @@ public class App extends Application {
     public void onCreate() {
         super.onCreate();
 
+
+
+
+
+
         // 初始化DoraemonKit
         DoraemonKit.install(this);
     }
